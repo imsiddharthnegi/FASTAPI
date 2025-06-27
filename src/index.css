@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f8f8fa;
+  margin: 0;
+  padding: 0;
+}
+.App {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 30px 10px;
+  background: #fff;
+  min-height: 100vh;
+}
+h1 { color: #232353; }
+section { margin-bottom: 32px; padding-bottom: 18px; border-bottom: 1px solid #eee; }
+button {
+  background: #232353;
+  color: #fff;
+  border: none;
+  padding: 7px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 15px;
+}
+button:hover {
+  background: #434373;
+}
+input[type="file"], input[type="number"] { margin-right: 10px; }
