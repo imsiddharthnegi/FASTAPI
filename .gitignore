@@ -1,0 +1,12 @@
+# Backend
+backend/output_frames/
+backend/__pycache__/
+*.pyc
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# Qdrant data
+qdrant/qdrant_storage/
